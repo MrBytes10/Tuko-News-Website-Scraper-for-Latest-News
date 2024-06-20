@@ -3,7 +3,7 @@
 This Python script scrapes news articles from the Tuko.co.ke website and saves them to an Excel file.
 
 - - The result should be a file like this:
-    ![Tuko News Scraper Output](tuko_news Scraper.jpg)
+    ![Tuko News Scraper Output](tuko_news_screenshot.jpg)
 
 ## Features
 
